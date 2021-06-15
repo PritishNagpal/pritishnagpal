@@ -7,8 +7,6 @@
 
 <p align="left"> <a href="https://twitter.com/pritish_nagpal" target="blank"><img src="https://img.shields.io/twitter/follow/pritish_nagpal?logo=twitter&style=for-the-badge" alt="pritish_nagpal" /></a> </p>
 
-- 🌱 I’m currently learning **React native, Sass**
-
 - 📝 I regularly write articles on [https://auth.geeksforgeeks.org/user/pritishnagpal/articles](https://auth.geeksforgeeks.org/user/pritishnagpal/articles)
 
 - 💬 Ask me about **MERN stack,Technical content writing, DSA**
