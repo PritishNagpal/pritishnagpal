@@ -1,5 +1,6 @@
 <h1 align="center">Hi 👋, I'm Pritish Nagpal</h1>
-<h3 align="center">A web developer from India trying to learn and grow everyday</h3>
+<h3 align="center">Frontend Engineer with strong experience across modern frontend technologies. Worked with multiple companies across varied domains, building and scaling frontend applications serving millions of users.
+</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=pritishnagpal&label=Profile%20views&color=0e75b6&style=flat" alt="pritishnagpal" /> </p>
 
@@ -7,15 +8,6 @@
 
 <p align="left"> <a href="https://twitter.com/pritish_nagpal" target="blank"><img src="https://img.shields.io/twitter/follow/pritish_nagpal?logo=twitter&style=for-the-badge" alt="pritish_nagpal" /></a> </p>
 
-- 📝 I regularly write articles on [https://auth.geeksforgeeks.org/user/pritishnagpal/articles](https://auth.geeksforgeeks.org/user/pritishnagpal/articles)
-
-- 💬 Ask me about **MERN stack,Technical content writing, DSA**
-
-- 📫 How to reach me **pritishnagpal2015@gmail.com**
-
-### Blogs posts
-<!-- BLOG-POST-LIST:START -->
-<!-- BLOG-POST-LIST:END -->
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
